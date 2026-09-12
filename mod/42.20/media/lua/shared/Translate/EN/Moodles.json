@@ -1,0 +1,121 @@
+{
+    "Moodles_Endurance_desc_lvl1": "Endurance under 75%%<br>Melee damage -50%%<br>Move speed -19%%<br>Attack speed -7%%<br>Firearm accuracy -2.5%%<br>Crit chance -1%%<br>Climbing fences -5%%<br>Tripping over fences +10%%<br>Blocking an attack -2%%<br>Foraging -25%%",
+    "Moodles_Endurance_desc_lvl2": "Endurance under 50%%<br>Melee damage -80%%<br>Move speed -37%%<br>Attack speed -14%%<br>Firearm accuracy -5%%<br>Crit chance -2%%<br>Climbing fences -10%%<br>Tripping over fences +20%%<br>Blocking an attack -4%%<br>Foraging -50%%<br>No sprinting",
+    "Moodles_Endurance_desc_lvl3": "Endurance under 25%%<br>Melee damage -90%%<br>Move speed -56%%<br>Attack speed -21%%<br>Firearm accuracy -7.5%%<br>Crit chance -3%%<br>Climbing fences -15%%<br>Tripping over fences +30%%<br>Blocking an attack -6%%<br>Foraging -75%%<br>No sprinting or running<br>No exercise",
+    "Moodles_Endurance_desc_lvl4": "Endurance under 10%%<br>Melee damage -95%%<br>Move speed -75%%<br>Attack speed -28%%<br>Firearm accuracy -10%%<br>Crit chance -4%%<br>Climbing fences -20%%<br>Tripping over fences +40%%<br>Blocking an attack -8%%<br>Foraging -75%%<br>No sprinting or running<br>No exercise<br>Cannot swing a sledgehammer",
+
+    "Moodles_HeavyLoad_desc_lvl1": "Over 100%% of capacity<br>Move speed -19%%<br>Attack speed -7%%<br>Crit chance -1%%<br>Climbing fences -8%%<br>Climbing walls and ropes -15%%<br>Tripping over fences +13%%<br>Blocking an attack -2%%<br>Slower endurance recovery<br>Discomfort while in a vehicle",
+    "Moodles_HeavyLoad_desc_lvl2": "Over 125%% of capacity<br>Move speed -37%%<br>Attack speed -14%%<br>Crit chance -2%%<br>Climbing fences -16%%<br>Climbing walls and ropes -15%%<br>Tripping over fences +26%%<br>Blocking an attack -4%%<br>Much slower endurance recovery<br>Discomfort while in a vehicle<br>No sprinting",
+    "Moodles_HeavyLoad_desc_lvl3": "Over 150%% of capacity<br>Move speed -56%%<br>Attack speed -21%%<br>Crit chance -3%%<br>Climbing fences -24%%<br>Climbing walls and ropes -15%%<br>Tripping over fences +39%%<br>Blocking an attack -6%%<br>Discomfort while in a vehicle<br>No sprinting or running<br>Endurance drains as you move and never recovers<br>Health drops to 75%%",
+    "Moodles_HeavyLoad_desc_lvl4": "Over 175%% of capacity<br>Move speed -75%%<br>Attack speed -28%%<br>Crit chance -4%%<br>Climbing fences -32%%<br>Climbing walls and ropes -15%%<br>Tripping over fences +52%%<br>Blocking an attack -8%%<br>Discomfort while in a vehicle<br>No sprinting or running<br>Endurance drains as you move and never recovers<br>Health drops to 75%%",
+
+    "Moodles_CantSprint_desc_lvl1": "No sprinting until you drop the bulky item<br>Caused by heavy clothing, bags, bare feet or leg injuries",
+
+    "Moodles_Tired_desc_lvl1": "Fatigue over 60%%<br>Melee damage -50%%<br>Firearm accuracy -2.5%%<br>Blocking an attack -3%%<br>Foraging -60%%<br>Spotting another player -14%%<br>Narrower vision cone<br>Slower endurance recovery",
+    "Moodles_Tired_desc_lvl2": "Fatigue over 70%%<br>Melee damage -80%%<br>Firearm accuracy -5%%<br>Blocking an attack -6%%<br>Foraging -70%%<br>Spotting another player -28%%<br>Narrower vision cone<br>Much slower endurance recovery",
+    "Moodles_Tired_desc_lvl3": "Fatigue over 80%%<br>Melee damage -90%%<br>Firearm accuracy -7.5%%<br>Blocking an attack -9%%<br>Foraging -75%%<br>Spotting another player -42%%<br>Narrower vision and awareness<br>Endurance barely recovers<br>Muscle stiffness builds up",
+    "Moodles_Tired_desc_lvl4": "Fatigue over 90%%<br>Melee damage -95%%<br>Firearm accuracy -10%%<br>Blocking an attack -12%%<br>Foraging -75%%<br>Spotting another player -56%%<br>Narrower vision and awareness<br>No endurance recovery<br>Muscle stiffness builds up<br>You can sleep on the ground and through pain",
+
+    "Moodles_Hungry_desc_lvl1": "Hunger over 15%%<br>Healing -25%%",
+    "Moodles_Hungry_desc_lvl2": "Hunger over 25%%<br>Carry capacity -1<br>Healing -25%%<br>Less body heat generated",
+    "Moodles_Hungry_desc_lvl3": "Hunger over 45%%<br>Carry capacity -2<br>Healing -55%%<br>Less body heat generated",
+    "Moodles_Hungry_desc_lvl4": "Hunger over 70%%<br>Carry capacity -2<br>Health -4.4%% per hour<br>Alcohol hits +10%%, and +25%% over 80%% hunger<br>No healing<br>Less body heat generated",
+
+    "Moodles_Thirst_desc_lvl1": "Thirst over 12%%<br>Heat dissipation -10%%",
+    "Moodles_Thirst_desc_lvl2": "Thirst over 25%%<br>Carry capacity -1<br>Healing -35%%<br>Heat dissipation -20%%",
+    "Moodles_Thirst_desc_lvl3": "Thirst over 70%%<br>Carry capacity -2<br>Healing -60%%<br>Heat dissipation -60%%",
+    "Moodles_Thirst_desc_lvl4": "Thirst over 84%%<br>Carry capacity -2<br>Health -22%% per hour<br>Heat dissipation -70%%<br>No healing",
+
+    "Moodles_FoodEaten_desc_lvl1": "Healing x7.5<br>Poison wears off 15%% faster<br>Hunger does not rise",
+    "Moodles_FoodEaten_desc_lvl2": "Healing x7.5<br>Poison wears off 30%% faster<br>Hunger does not rise",
+    "Moodles_FoodEaten_desc_lvl3": "Healing x7.5<br>Poison wears off 45%% faster<br>Hunger does not rise<br>You cannot eat any more",
+    "Moodles_FoodEaten_desc_lvl4": "Healing x7.5<br>Poison wears off 60%% faster<br>Hunger does not rise<br>You cannot eat any more",
+
+    "Moodles_Panic_desc_lvl1": "Panic over 6%%<br>Crit chance -1.3%%<br>Firearm accuracy -9%% at 10 tiles<br>Clearing a jam -3%%<br>Foraging -6%%<br>Boredom is wiped and held down<br>You cannot sleep",
+    "Moodles_Panic_desc_lvl2": "Panic over 30%%<br>Crit chance -2.6%%<br>Melee damage -0.2<br>Firearm accuracy -18%% at 10 tiles<br>Clearing a jam -6%%<br>Foraging -30%%<br>Boredom is wiped and held down<br>You get up faster<br>You cannot sleep",
+    "Moodles_Panic_desc_lvl3": "Panic over 65%%<br>Crit chance -3.9%%<br>Melee damage -0.3<br>Firearm accuracy -27%% at 10 tiles<br>Clearing a jam -9%%<br>Foraging -65%%<br>Move speed +10%% with Adrenaline Junkie<br>Boredom is wiped and held down<br>You get up faster<br>You cannot sleep",
+    "Moodles_Panic_desc_lvl4": "Panic over 80%%<br>Crit chance -5.2%%<br>Melee damage -0.4<br>Firearm accuracy -36%% at 10 tiles<br>Clearing a jam -12%%<br>Foraging -80%%<br>Move speed +25%% with Adrenaline Junkie<br>Vision cone narrows, cancelling Eagle Eyed<br>Boredom is wiped and held down<br>You get up faster<br>You cannot sleep",
+
+    "Moodles_Stress_desc_lvl1": "Stress over 25%%<br>Firearm accuracy -9%% at 10 tiles<br>Clearing a jam -3%%<br>Foraging -25%%",
+    "Moodles_Stress_desc_lvl2": "Stress over 50%%<br>Melee damage -0.2<br>Firearm accuracy -18%% at 10 tiles<br>Clearing a jam -6%%<br>Foraging -50%%<br>Unhappiness rises",
+    "Moodles_Stress_desc_lvl3": "Stress over 75%%<br>Melee damage -0.3<br>Firearm accuracy -27%% at 10 tiles<br>Clearing a jam -9%%<br>Foraging -75%%<br>Unhappiness rises<br>Nightmares while asleep",
+    "Moodles_Stress_desc_lvl4": "Stress over 90%%<br>Melee damage -0.4<br>Firearm accuracy -36%% at 10 tiles<br>Clearing a jam -12%%<br>Foraging -90%%<br>Unhappiness rises fast<br>Nightmares while asleep",
+
+    "Moodles_Bored_desc_lvl1": "Boredom over 25%%",
+    "Moodles_Bored_desc_lvl2": "Boredom over 50%%<br>Unhappiness rises slowly",
+    "Moodles_Bored_desc_lvl3": "Boredom over 75%%<br>Unhappiness rises",
+    "Moodles_Bored_desc_lvl4": "Boredom over 90%%<br>Unhappiness rises fast",
+
+    "Moodles_Unhappy_desc_lvl1": "Unhappiness over 20%%<br>Timed actions +25%%",
+    "Moodles_Unhappy_desc_lvl2": "Unhappiness over 45%%<br>Timed actions +50%%",
+    "Moodles_Unhappy_desc_lvl3": "Unhappiness over 60%%<br>Timed actions +75%%",
+    "Moodles_Unhappy_desc_lvl4": "Unhappiness over 80%%<br>Timed actions +100%%",
+
+    "Moodles_Angry_desc_lvl1": "Anger over 10%%<br>No effect until NPCs return",
+    "Moodles_Angry_desc_lvl2": "Anger over 25%%<br>No effect until NPCs return",
+    "Moodles_Angry_desc_lvl3": "Anger over 50%%<br>No effect until NPCs return",
+    "Moodles_Angry_desc_lvl4": "Anger over 75%%<br>No effect until NPCs return",
+
+    "Moodles_Drunk_desc_lvl1": "Drunkenness over 10%%<br>Climbing fences -8%%<br>Tripping over fences +10%%<br>Blocking an attack -2%%<br>Spotting another player -14%%<br>Sleep 5-15%% less effective<br>Medicine 50%% less effective<br>Discomfort -5%%<br>Foraging -10%%<br>Timed actions take longer<br>Delayed vehicle controls",
+    "Moodles_Drunk_desc_lvl2": "Drunkenness over 30%%<br>Firearm accuracy -18%% at 10 tiles<br>Clearing a jam -6%%<br>Climbing fences -16%%<br>Tripping over fences +20%%<br>Blocking an attack -4%%<br>Spotting another player -28%%<br>Sleep 15-25%% less effective<br>Medicine 50%% less effective<br>Discomfort -15%%<br>Foraging -30%%<br>Timed actions take longer<br>Delayed vehicle controls<br>Narrower vision cone<br>You weave as you walk<br>Hypothermia is hidden",
+    "Moodles_Drunk_desc_lvl3": "Drunkenness over 50%%<br>Firearm accuracy -27%% at 10 tiles<br>Clearing a jam -9%%<br>Climbing fences -24%%<br>Tripping over fences +30%%<br>Blocking an attack -6%%<br>Spotting another player -42%%<br>Sleep 25-35%% less effective<br>Medicine 50%% less effective<br>Discomfort -25%%<br>Foraging -50%%<br>Timed actions take longer<br>Delayed vehicle controls<br>Narrower vision cone<br>You weave as you walk<br>Hypothermia is hidden",
+    "Moodles_Drunk_desc_lvl4": "Drunkenness over 70%%<br>Firearm accuracy -36%% at 10 tiles<br>Clearing a jam -12%%<br>Climbing fences -32%%<br>Tripping over fences +40%%<br>Blocking an attack -8%%<br>Spotting another player -56%%<br>Sleep 35-50%% less effective<br>Medicine 50%% less effective<br>Discomfort -35%%<br>Foraging -70%%<br>Timed actions +100%%<br>Delayed vehicle controls<br>Narrower vision cone<br>You weave as you walk<br>Hypothermia is hidden",
+
+    "Moodles_Pain_desc_lvl1": "Pain over 10%%<br>Climbing -5%%<br>Tripping over fences +5%%<br>Foraging -10%%<br>Slower rope climbing",
+    "Moodles_Pain_desc_lvl2": "Pain over 20%%<br>Climbing -10%%<br>Tripping over fences +10%%<br>Foraging -20%%<br>Slower rope climbing<br>Movement, damage and attack speed drop with the wound<br>You cannot sleep",
+    "Moodles_Pain_desc_lvl3": "Pain over 50%%<br>Climbing -15%%<br>Tripping over fences +15%%<br>Foraging -50%%<br>Slower rope climbing<br>Movement, damage and attack speed drop with the wound<br>You cannot sleep<br>You make noise",
+    "Moodles_Pain_desc_lvl4": "Pain over 75%%<br>Climbing -20%%<br>Tripping over fences +20%%<br>Foraging -75%%<br>Slower rope climbing<br>Movement, damage and attack speed drop with the wound<br>You cannot sleep<br>You make noise<br>No exercise",
+
+    "Moodles_Injured_desc_lvl1": "Health under 80%%",
+    "Moodles_Injured_desc_lvl2": "Health under 60%%<br>Carry capacity -1",
+    "Moodles_Injured_desc_lvl3": "Health under 40%%<br>Carry capacity -2",
+    "Moodles_Injured_desc_lvl4": "Health under 25%%<br>Carry capacity -3",
+
+    "Moodles_Bleeding_desc_lvl1": "1 wound bleeding<br>Panic x0.2 per wound<br>Slow health loss",
+    "Moodles_Bleeding_desc_lvl2": "2 wounds bleeding<br>Carry capacity -1<br>Panic x0.4 per wound<br>Health loss",
+    "Moodles_Bleeding_desc_lvl3": "3 wounds bleeding<br>Carry capacity -1<br>Panic x0.6 per wound<br>Serious health loss",
+    "Moodles_Bleeding_desc_lvl4": "4 wounds, or a bleeding neck<br>Carry capacity -1<br>Panic x0.8 per wound<br>Death without first aid",
+
+    "Moodles_Sick_desc_lvl1": "Sickness over 25%%<br>Foraging -25%%<br>Body heat rises<br>Health drops if this is infection or poison",
+    "Moodles_Sick_desc_lvl2": "Sickness over 50%%<br>Carry capacity -1<br>Foraging -50%%<br>Body heat rises<br>Slower healing<br>Health drops if this is infection or poison",
+    "Moodles_Sick_desc_lvl3": "Sickness over 75%%<br>Carry capacity -2<br>Foraging -75%%<br>Body heat rises<br>Much slower healing<br>Health drops if this is infection or poison",
+    "Moodles_Sick_desc_lvl4": "Sickness over 90%%<br>Carry capacity -3<br>Foraging -75%%<br>Body heat rises sharply<br>Much slower healing<br>Health slowly drops",
+
+    "Moodles_HasACold_desc_lvl1": "Cold strength over 20%%<br>You sneeze now and then<br>Only heals indoors, dry, under 50%% fatigue and under 25%% hunger and thirst",
+    "Moodles_HasACold_desc_lvl2": "Cold strength over 40%%<br>You sneeze and cough often<br>Only heals indoors, dry, under 50%% fatigue and under 25%% hunger and thirst",
+    "Moodles_HasACold_desc_lvl3": "Cold strength over 60%%<br>You cough so much that hiding gets hard<br>Only heals indoors, dry, under 50%% fatigue and under 25%% hunger and thirst",
+    "Moodles_HasACold_desc_lvl4": "Cold strength over 80%%<br>You cough constantly and draw zombies<br>Only heals indoors, dry, under 50%% fatigue and under 25%% hunger and thirst",
+
+    "Moodles_Wet_desc_lvl1": "Wetness over 15%%<br>Discomfort +10%%<br>No natural healing<br>You lose heat in the cold",
+    "Moodles_Wet_desc_lvl2": "Wetness over 40%%<br>Discomfort +20%%<br>No natural healing<br>You lose heat in the cold",
+    "Moodles_Wet_desc_lvl3": "Wetness over 70%%<br>Discomfort +30%%<br>No natural healing<br>You lose heat in the cold<br>More likely to fall ill",
+    "Moodles_Wet_desc_lvl4": "Wetness over 90%%<br>Discomfort +40%%<br>Heat loss +75%%<br>No natural healing<br>Much more likely to fall ill",
+
+    "Moodles_Uncomfortable_desc_lvl1": "Discomfort over 20%%<br>Stress rises<br>The Desensitized trait cancels it",
+    "Moodles_Uncomfortable_desc_lvl2": "Discomfort over 40%%<br>Stress rises<br>The Desensitized trait cancels it",
+    "Moodles_Uncomfortable_desc_lvl3": "Discomfort over 60%%<br>Stress rises<br>The Desensitized trait cancels it<br>You complain out loud",
+    "Moodles_Uncomfortable_desc_lvl4": "Discomfort over 80%%<br>Stress rises<br>The Desensitized trait cancels it<br>You complain out loud",
+
+    "Moodles_NoxiousSmell_desc_lvl1": "Rotting corpses nearby<br>Sickness starts to build",
+    "Moodles_NoxiousSmell_desc_lvl2": "More rotting corpses<br>Sickness builds noticeably",
+    "Moodles_NoxiousSmell_desc_lvl3": "Many rotting corpses<br>The worst corpses can do",
+    "Moodles_NoxiousSmell_desc_lvl4": "A generator running indoors<br>Health drops to 65%%, then to 5%%<br>It will not kill you outright<br>A gas mask or SCBA prevents it",
+
+    "Moodles_Hyperthermia_desc_lvl1": "Body at 37.5 C<br>Thirst and fatigue rise faster",
+    "Moodles_Hyperthermia_desc_lvl2": "Body at 39 C<br>Combat speed -33%%<br>Run speed -33%%<br>Discomfort +20%%<br>Thirst and fatigue rise faster",
+    "Moodles_Hyperthermia_desc_lvl3": "Body at 40 C<br>Combat speed -66%%<br>Run speed -66%%<br>Discomfort +30%%<br>Thirst and fatigue rise faster<br>It wakes you up",
+    "Moodles_Hyperthermia_desc_lvl4": "Body at 41 C<br>Combat speed -90%%<br>Discomfort +40%%<br>Endurance drain +100%%<br>You cannot run<br>Narrower vision cone<br>Thirst and fatigue rise faster<br>Health drops to 30%% when the air is above 37 C",
+
+    "Moodles_Hypothermia_desc_lvl1": "Body at 36.5 C<br>Discomfort +10%%<br>No natural healing<br>More likely to catch a cold",
+    "Moodles_Hypothermia_desc_lvl2": "Body at 35 C<br>Combat speed -33%%<br>Run speed -33%%<br>Discomfort +20%%<br>No natural healing<br>More likely to catch a cold",
+    "Moodles_Hypothermia_desc_lvl3": "Body at 30 C<br>Combat speed -66%%<br>Run speed -66%%<br>Discomfort +30%%<br>No natural healing<br>More likely to catch a cold",
+    "Moodles_Hypothermia_desc_lvl4": "Body at 25 C<br>Combat speed -90%%<br>Discomfort +40%%<br>You cannot run<br>No natural healing<br>Health drops when the air is below 0 C",
+
+    "Moodles_Windchill_desc_lvl1": "5 C colder than the air",
+    "Moodles_Windchill_desc_lvl2": "10 C colder than the air",
+    "Moodles_Windchill_desc_lvl3": "15 C colder than the air",
+    "Moodles_Windchill_desc_lvl4": "20 C colder than the air",
+
+    "Moodles_Dead_desc_lvl4": "Rest in peace.",
+    "Moodles_Zombie_desc_lvl4": "Infected. There is no cure."
+}

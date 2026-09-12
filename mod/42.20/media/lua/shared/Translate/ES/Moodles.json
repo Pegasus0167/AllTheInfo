@@ -1,0 +1,121 @@
+{
+    "Moodles_Endurance_desc_lvl1": "Aguante por debajo del 75 %%<br>Daño cuerpo a cuerpo -50 %%<br>Velocidad al moverse -19 %%<br>Velocidad de ataque -7 %%<br>Puntería con arma de fuego -2.5 %%<br>Probabilidad de crítico -1 %%<br>Trepar vallas -5 %%<br>Tropezar en vallas +10 %%<br>Bloquear un ataque -2 %%<br>Forrajeo -25 %%",
+    "Moodles_Endurance_desc_lvl2": "Aguante por debajo del 50 %%<br>Daño cuerpo a cuerpo -80 %%<br>Velocidad al moverse -37 %%<br>Velocidad de ataque -14 %%<br>Puntería con arma de fuego -5 %%<br>Probabilidad de crítico -2 %%<br>Trepar vallas -10 %%<br>Tropezar en vallas +20 %%<br>Bloquear un ataque -4 %%<br>Forrajeo -50 %%<br>No puedes esprintar",
+    "Moodles_Endurance_desc_lvl3": "Aguante por debajo del 25 %%<br>Daño cuerpo a cuerpo -90 %%<br>Velocidad al moverse -56 %%<br>Velocidad de ataque -21 %%<br>Puntería con arma de fuego -7.5 %%<br>Probabilidad de crítico -3 %%<br>Trepar vallas -15 %%<br>Tropezar en vallas +30 %%<br>Bloquear un ataque -6 %%<br>Forrajeo -75 %%<br>No puedes esprintar ni correr<br>No puedes hacer ejercicio",
+    "Moodles_Endurance_desc_lvl4": "Aguante por debajo del 10 %%<br>Daño cuerpo a cuerpo -95 %%<br>Velocidad al moverse -75 %%<br>Velocidad de ataque -28 %%<br>Puntería con arma de fuego -10 %%<br>Probabilidad de crítico -4 %%<br>Trepar vallas -20 %%<br>Tropezar en vallas +40 %%<br>Bloquear un ataque -8 %%<br>Forrajeo -75 %%<br>No puedes esprintar ni correr<br>No puedes hacer ejercicio<br>No puedes usar el mazo",
+
+    "Moodles_HeavyLoad_desc_lvl1": "Más del 100 %% de tu capacidad<br>Velocidad al moverse -19 %%<br>Velocidad de ataque -7 %%<br>Probabilidad de crítico -1 %%<br>Trepar vallas -8 %%<br>Trepar muros y cuerdas -15 %%<br>Tropezar en vallas +13 %%<br>Bloquear un ataque -2 %%<br>Recuperas aguante más despacio<br>Incomodidad dentro de un vehículo",
+    "Moodles_HeavyLoad_desc_lvl2": "Más del 125 %% de tu capacidad<br>Velocidad al moverse -37 %%<br>Velocidad de ataque -14 %%<br>Probabilidad de crítico -2 %%<br>Trepar vallas -16 %%<br>Trepar muros y cuerdas -15 %%<br>Tropezar en vallas +26 %%<br>Bloquear un ataque -4 %%<br>Recuperas aguante mucho más despacio<br>Incomodidad dentro de un vehículo<br>No puedes esprintar",
+    "Moodles_HeavyLoad_desc_lvl3": "Más del 150 %% de tu capacidad<br>Velocidad al moverse -56 %%<br>Velocidad de ataque -21 %%<br>Probabilidad de crítico -3 %%<br>Trepar vallas -24 %%<br>Trepar muros y cuerdas -15 %%<br>Tropezar en vallas +39 %%<br>Bloquear un ataque -6 %%<br>Incomodidad dentro de un vehículo<br>No puedes esprintar ni correr<br>El aguante se gasta al moverte y no se recupera<br>La salud baja hasta el 75 %%",
+    "Moodles_HeavyLoad_desc_lvl4": "Más del 175 %% de tu capacidad<br>Velocidad al moverse -75 %%<br>Velocidad de ataque -28 %%<br>Probabilidad de crítico -4 %%<br>Trepar vallas -32 %%<br>Trepar muros y cuerdas -15 %%<br>Tropezar en vallas +52 %%<br>Bloquear un ataque -8 %%<br>Incomodidad dentro de un vehículo<br>No puedes esprintar ni correr<br>El aguante se gasta al moverte y no se recupera<br>La salud baja hasta el 75 %%",
+
+    "Moodles_CantSprint_desc_lvl1": "No puedes esprintar hasta soltar el bulto<br>Lo causan la ropa pesada, las bolsas, ir descalzo o las piernas heridas",
+
+    "Moodles_Tired_desc_lvl1": "Fatiga por encima del 60 %%<br>Daño cuerpo a cuerpo -50 %%<br>Puntería con arma de fuego -2.5 %%<br>Bloquear un ataque -3 %%<br>Forrajeo -60 %%<br>Detectar a otro jugador -14%%<br>El cono de visión se estrecha<br>Recuperas aguante más despacio",
+    "Moodles_Tired_desc_lvl2": "Fatiga por encima del 70 %%<br>Daño cuerpo a cuerpo -80 %%<br>Puntería con arma de fuego -5 %%<br>Bloquear un ataque -6 %%<br>Forrajeo -70 %%<br>Detectar a otro jugador -28%%<br>El cono de visión se estrecha<br>Recuperas aguante mucho más despacio",
+    "Moodles_Tired_desc_lvl3": "Fatiga por encima del 80 %%<br>Daño cuerpo a cuerpo -90 %%<br>Puntería con arma de fuego -7.5 %%<br>Bloquear un ataque -9 %%<br>Forrajeo -75 %%<br>Detectar a otro jugador -42%%<br>Pierdes visión y alerta<br>El aguante apenas se recupera<br>Se te agarrotan los músculos",
+    "Moodles_Tired_desc_lvl4": "Fatiga por encima del 90 %%<br>Daño cuerpo a cuerpo -95 %%<br>Puntería con arma de fuego -10 %%<br>Bloquear un ataque -12 %%<br>Forrajeo -75 %%<br>Detectar a otro jugador -56%%<br>Pierdes visión y alerta<br>No recuperas aguante<br>Se te agarrotan los músculos<br>Puedes dormir en el suelo y con dolor",
+
+    "Moodles_Hungry_desc_lvl1": "Hambre por encima del 15 %%<br>Te curas un 25 %% más despacio",
+    "Moodles_Hungry_desc_lvl2": "Hambre por encima del 25 %%<br>Capacidad de carga -1<br>Te curas un 25 %% más despacio<br>Generas menos calor corporal",
+    "Moodles_Hungry_desc_lvl3": "Hambre por encima del 45 %%<br>Capacidad de carga -2<br>Te curas un 55 %% más despacio<br>Generas menos calor corporal",
+    "Moodles_Hungry_desc_lvl4": "Hambre por encima del 70 %%<br>Capacidad de carga -2<br>Pierdes un 4.4 %% de salud por hora<br>El alcohol sube +10%%, y +25%% con más del 80 %% de hambre<br>No te curas<br>Generas menos calor corporal",
+
+    "Moodles_Thirst_desc_lvl1": "Sed por encima del 12 %%<br>Disipas un 10 %% menos de calor",
+    "Moodles_Thirst_desc_lvl2": "Sed por encima del 25 %%<br>Capacidad de carga -1<br>Te curas un 35 %% más despacio<br>Disipas un 20 %% menos de calor",
+    "Moodles_Thirst_desc_lvl3": "Sed por encima del 70 %%<br>Capacidad de carga -2<br>Te curas un 60 %% más despacio<br>Disipas un 60 %% menos de calor",
+    "Moodles_Thirst_desc_lvl4": "Sed por encima del 84 %%<br>Capacidad de carga -2<br>Pierdes un 22 %% de salud por hora<br>Disipas un 70 %% menos de calor<br>No te curas",
+
+    "Moodles_FoodEaten_desc_lvl1": "Te curas x7.5 más rápido<br>El veneno baja un 15 %% más rápido<br>El hambre no sube",
+    "Moodles_FoodEaten_desc_lvl2": "Te curas x7.5 más rápido<br>El veneno baja un 30 %% más rápido<br>El hambre no sube",
+    "Moodles_FoodEaten_desc_lvl3": "Te curas x7.5 más rápido<br>El veneno baja un 45 %% más rápido<br>El hambre no sube<br>No puedes comer más",
+    "Moodles_FoodEaten_desc_lvl4": "Te curas x7.5 más rápido<br>El veneno baja un 60 %% más rápido<br>El hambre no sube<br>No puedes comer más",
+
+    "Moodles_Panic_desc_lvl1": "Pánico por encima del 6 %%<br>Probabilidad de crítico -1.3 %%<br>Puntería con arma de fuego -9 %% a 10 casillas<br>Desatascar el arma -3 %%<br>Forrajeo -6 %%<br>El aburrimiento se borra y no sube<br>No puedes dormir",
+    "Moodles_Panic_desc_lvl2": "Pánico por encima del 30 %%<br>Probabilidad de crítico -2.6 %%<br>Daño cuerpo a cuerpo -0.2<br>Puntería con arma de fuego -18 %% a 10 casillas<br>Desatascar el arma -6 %%<br>Forrajeo -30 %%<br>El aburrimiento se borra y no sube<br>Te levantas más rápido<br>No puedes dormir",
+    "Moodles_Panic_desc_lvl3": "Pánico por encima del 65 %%<br>Probabilidad de crítico -3.9 %%<br>Daño cuerpo a cuerpo -0.3<br>Puntería con arma de fuego -27 %% a 10 casillas<br>Desatascar el arma -9 %%<br>Forrajeo -65 %%<br>Velocidad al moverse +10 %% con Yonqui de la Adrenalina<br>El aburrimiento se borra y no sube<br>Te levantas más rápido<br>No puedes dormir",
+    "Moodles_Panic_desc_lvl4": "Pánico por encima del 80 %%<br>Probabilidad de crítico -5.2 %%<br>Daño cuerpo a cuerpo -0.4<br>Puntería con arma de fuego -36 %% a 10 casillas<br>Desatascar el arma -12 %%<br>Forrajeo -80 %%<br>Velocidad al moverse +25 %% con Yonqui de la Adrenalina<br>El cono de visión se estrecha y anula el rasgo Vista de águila<br>El aburrimiento se borra y no sube<br>Te levantas más rápido<br>No puedes dormir",
+
+    "Moodles_Stress_desc_lvl1": "Estrés por encima del 25 %%<br>Puntería con arma de fuego -9 %% a 10 casillas<br>Desatascar el arma -3 %%<br>Forrajeo -25 %%",
+    "Moodles_Stress_desc_lvl2": "Estrés por encima del 50 %%<br>Daño cuerpo a cuerpo -0.2<br>Puntería con arma de fuego -18 %% a 10 casillas<br>Desatascar el arma -6 %%<br>Forrajeo -50 %%<br>Sube la infelicidad",
+    "Moodles_Stress_desc_lvl3": "Estrés por encima del 75 %%<br>Daño cuerpo a cuerpo -0.3<br>Puntería con arma de fuego -27 %% a 10 casillas<br>Desatascar el arma -9 %%<br>Forrajeo -75 %%<br>Sube la infelicidad<br>Pesadillas al dormir",
+    "Moodles_Stress_desc_lvl4": "Estrés por encima del 90 %%<br>Daño cuerpo a cuerpo -0.4<br>Puntería con arma de fuego -36 %% a 10 casillas<br>Desatascar el arma -12 %%<br>Forrajeo -90 %%<br>La infelicidad sube rápido<br>Pesadillas al dormir",
+
+    "Moodles_Bored_desc_lvl1": "Aburrimiento por encima del 25 %%",
+    "Moodles_Bored_desc_lvl2": "Aburrimiento por encima del 50 %%<br>La infelicidad sube despacio",
+    "Moodles_Bored_desc_lvl3": "Aburrimiento por encima del 75 %%<br>Sube la infelicidad",
+    "Moodles_Bored_desc_lvl4": "Aburrimiento por encima del 90 %%<br>La infelicidad sube rápido",
+
+    "Moodles_Unhappy_desc_lvl1": "Infelicidad por encima del 20 %%<br>Las acciones tardan +25%%",
+    "Moodles_Unhappy_desc_lvl2": "Infelicidad por encima del 45 %%<br>Las acciones tardan +50%%",
+    "Moodles_Unhappy_desc_lvl3": "Infelicidad por encima del 60 %%<br>Las acciones tardan +75%%",
+    "Moodles_Unhappy_desc_lvl4": "Infelicidad por encima del 80 %%<br>Las acciones tardan +100%%",
+
+    "Moodles_Angry_desc_lvl1": "Ira por encima del 10 %%<br>Sin efecto hasta que vuelvan los NPC",
+    "Moodles_Angry_desc_lvl2": "Ira por encima del 25 %%<br>Sin efecto hasta que vuelvan los NPC",
+    "Moodles_Angry_desc_lvl3": "Ira por encima del 50 %%<br>Sin efecto hasta que vuelvan los NPC",
+    "Moodles_Angry_desc_lvl4": "Ira por encima del 75 %%<br>Sin efecto hasta que vuelvan los NPC",
+
+    "Moodles_Drunk_desc_lvl1": "Ebriedad por encima del 10 %%<br>Trepar vallas -8 %%<br>Tropezar en vallas +10 %%<br>Bloquear un ataque -2 %%<br>Detectar a otro jugador -14%%<br>El sueño rinde un 5-15 %% menos<br>Las medicinas rinden un 50 %% menos<br>Incomodidad -5 %%<br>Forrajeo -10 %%<br>Las acciones tardan más<br>Los mandos del coche van con retraso",
+    "Moodles_Drunk_desc_lvl2": "Ebriedad por encima del 30 %%<br>Puntería con arma de fuego -18 %% a 10 casillas<br>Desatascar el arma -6 %%<br>Trepar vallas -16 %%<br>Tropezar en vallas +20 %%<br>Bloquear un ataque -4 %%<br>Detectar a otro jugador -28%%<br>El sueño rinde un 15-25 %% menos<br>Las medicinas rinden un 50 %% menos<br>Incomodidad -15 %%<br>Forrajeo -30 %%<br>Las acciones tardan más<br>Los mandos del coche van con retraso<br>El cono de visión se estrecha<br>Caminas haciendo eses<br>Oculta la hipotermia",
+    "Moodles_Drunk_desc_lvl3": "Ebriedad por encima del 50 %%<br>Puntería con arma de fuego -27 %% a 10 casillas<br>Desatascar el arma -9 %%<br>Trepar vallas -24 %%<br>Tropezar en vallas +30 %%<br>Bloquear un ataque -6 %%<br>Detectar a otro jugador -42%%<br>El sueño rinde un 25-35 %% menos<br>Las medicinas rinden un 50 %% menos<br>Incomodidad -25 %%<br>Forrajeo -50 %%<br>Las acciones tardan más<br>Los mandos del coche van con retraso<br>El cono de visión se estrecha<br>Caminas haciendo eses<br>Oculta la hipotermia",
+    "Moodles_Drunk_desc_lvl4": "Ebriedad por encima del 70 %%<br>Puntería con arma de fuego -36 %% a 10 casillas<br>Desatascar el arma -12 %%<br>Trepar vallas -32 %%<br>Tropezar en vallas +40 %%<br>Bloquear un ataque -8 %%<br>Detectar a otro jugador -56%%<br>El sueño rinde un 35-50 %% menos<br>Las medicinas rinden un 50 %% menos<br>Incomodidad -35 %%<br>Forrajeo -70 %%<br>Las acciones tardan +100%%<br>Los mandos del coche van con retraso<br>El cono de visión se estrecha<br>Caminas haciendo eses<br>Oculta la hipotermia",
+
+    "Moodles_Pain_desc_lvl1": "Dolor por encima del 10 %%<br>Trepar -5 %%<br>Tropezar en vallas +5 %%<br>Forrajeo -10 %%<br>Trepas cuerdas más despacio",
+    "Moodles_Pain_desc_lvl2": "Dolor por encima del 20 %%<br>Trepar -10 %%<br>Tropezar en vallas +10 %%<br>Forrajeo -20 %%<br>Trepas cuerdas más despacio<br>Movimiento, daño y ataque bajan según la herida<br>No puedes dormir",
+    "Moodles_Pain_desc_lvl3": "Dolor por encima del 50 %%<br>Trepar -15 %%<br>Tropezar en vallas +15 %%<br>Forrajeo -50 %%<br>Trepas cuerdas más despacio<br>Movimiento, daño y ataque bajan según la herida<br>No puedes dormir<br>Haces ruido",
+    "Moodles_Pain_desc_lvl4": "Dolor por encima del 75 %%<br>Trepar -20 %%<br>Tropezar en vallas +20 %%<br>Forrajeo -75 %%<br>Trepas cuerdas más despacio<br>Movimiento, daño y ataque bajan según la herida<br>No puedes dormir<br>Haces ruido<br>No puedes hacer ejercicio",
+
+    "Moodles_Injured_desc_lvl1": "Salud por debajo del 80 %%",
+    "Moodles_Injured_desc_lvl2": "Salud por debajo del 60 %%<br>Capacidad de carga -1",
+    "Moodles_Injured_desc_lvl3": "Salud por debajo del 40 %%<br>Capacidad de carga -2",
+    "Moodles_Injured_desc_lvl4": "Salud por debajo del 25 %%<br>Capacidad de carga -3",
+
+    "Moodles_Bleeding_desc_lvl1": "1 herida sangrando<br>Pánico x0.2 por herida<br>Pierdes salud despacio",
+    "Moodles_Bleeding_desc_lvl2": "2 heridas sangrando<br>Capacidad de carga -1<br>Pánico x0.4 por herida<br>Pierdes salud",
+    "Moodles_Bleeding_desc_lvl3": "3 heridas sangrando<br>Capacidad de carga -1<br>Pánico x0.6 por herida<br>Pierdes bastante salud",
+    "Moodles_Bleeding_desc_lvl4": "4 heridas, o una en el cuello<br>Capacidad de carga -1<br>Pánico x0.8 por herida<br>Mueres sin primeros auxilios",
+
+    "Moodles_Sick_desc_lvl1": "Enfermedad por encima del 25 %%<br>Forrajeo -25 %%<br>Te sube la temperatura corporal<br>Pierdes salud si es infección o veneno",
+    "Moodles_Sick_desc_lvl2": "Enfermedad por encima del 50 %%<br>Capacidad de carga -1<br>Forrajeo -50 %%<br>Te sube la temperatura corporal<br>Te curas más despacio<br>Pierdes salud si es infección o veneno",
+    "Moodles_Sick_desc_lvl3": "Enfermedad por encima del 75 %%<br>Capacidad de carga -2<br>Forrajeo -75 %%<br>Te sube la temperatura corporal<br>Te curas mucho más despacio<br>Pierdes salud si es infección o veneno",
+    "Moodles_Sick_desc_lvl4": "Enfermedad por encima del 90 %%<br>Capacidad de carga -3<br>Forrajeo -75 %%<br>Te sube mucho la temperatura corporal<br>Te curas mucho más despacio<br>Pierdes salud poco a poco",
+
+    "Moodles_HasACold_desc_lvl1": "Resfriado por encima del 20 %%<br>Estornudas de vez en cuando<br>Solo se cura bajo techo y en seco, con menos del 50 %% de fatiga y menos del 25 %% de hambre y sed",
+    "Moodles_HasACold_desc_lvl2": "Resfriado por encima del 40 %%<br>Estornudas y toses a menudo<br>Solo se cura bajo techo y en seco, con menos del 50 %% de fatiga y menos del 25 %% de hambre y sed",
+    "Moodles_HasACold_desc_lvl3": "Resfriado por encima del 60 %%<br>Toses tanto que cuesta esconderse<br>Solo se cura bajo techo y en seco, con menos del 50 %% de fatiga y menos del 25 %% de hambre y sed",
+    "Moodles_HasACold_desc_lvl4": "Resfriado por encima del 80 %%<br>Toses sin parar y atraes zombis<br>Solo se cura bajo techo y en seco, con menos del 50 %% de fatiga y menos del 25 %% de hambre y sed",
+
+    "Moodles_Wet_desc_lvl1": "Mojado por encima del 15 %%<br>Incomodidad +10 %%<br>No te curas de forma natural<br>Pierdes calor si hace frío",
+    "Moodles_Wet_desc_lvl2": "Mojado por encima del 40 %%<br>Incomodidad +20 %%<br>No te curas de forma natural<br>Pierdes calor si hace frío",
+    "Moodles_Wet_desc_lvl3": "Mojado por encima del 70 %%<br>Incomodidad +30 %%<br>No te curas de forma natural<br>Pierdes calor si hace frío<br>Más probabilidad de enfermar",
+    "Moodles_Wet_desc_lvl4": "Mojado por encima del 90 %%<br>Incomodidad +40 %%<br>Pierdes un 75 %% más de calor<br>No te curas de forma natural<br>Mucha más probabilidad de enfermar",
+
+    "Moodles_Uncomfortable_desc_lvl1": "Incomodidad por encima del 20 %%<br>Sube el estrés<br>El rasgo Insensible lo anula",
+    "Moodles_Uncomfortable_desc_lvl2": "Incomodidad por encima del 40 %%<br>Sube el estrés<br>El rasgo Insensible lo anula",
+    "Moodles_Uncomfortable_desc_lvl3": "Incomodidad por encima del 60 %%<br>Sube el estrés<br>El rasgo Insensible lo anula<br>Te quejas en voz alta",
+    "Moodles_Uncomfortable_desc_lvl4": "Incomodidad por encima del 80 %%<br>Sube el estrés<br>El rasgo Insensible lo anula<br>Te quejas en voz alta",
+
+    "Moodles_NoxiousSmell_desc_lvl1": "Cadáveres pudriéndose cerca<br>Empiezas a enfermar",
+    "Moodles_NoxiousSmell_desc_lvl2": "Más cadáveres pudriéndose<br>Enfermas de forma notable",
+    "Moodles_NoxiousSmell_desc_lvl3": "Muchos cadáveres pudriéndose<br>El tope que dan los cadáveres",
+    "Moodles_NoxiousSmell_desc_lvl4": "Un generador encendido bajo techo<br>La salud baja al 65 %% y luego al 5 %%<br>No llega a matarte<br>Lo evita una máscara de gas o un SCBA",
+
+    "Moodles_Hyperthermia_desc_lvl1": "Cuerpo a 37.5 C<br>La sed y la fatiga suben más rápido",
+    "Moodles_Hyperthermia_desc_lvl2": "Cuerpo a 39 C<br>Velocidad de combate -33 %%<br>Velocidad al correr -33 %%<br>Incomodidad +20 %%<br>La sed y la fatiga suben más rápido",
+    "Moodles_Hyperthermia_desc_lvl3": "Cuerpo a 40 C<br>Velocidad de combate -66 %%<br>Velocidad al correr -66 %%<br>Incomodidad +30 %%<br>La sed y la fatiga suben más rápido<br>Te despierta si duermes",
+    "Moodles_Hyperthermia_desc_lvl4": "Cuerpo a 41 C<br>Velocidad de combate -90 %%<br>Incomodidad +40 %%<br>Gastas aguante +100%%<br>No puedes correr<br>El cono de visión se estrecha<br>La sed y la fatiga suben más rápido<br>La salud baja al 30 %% si el aire está por encima de 37 C",
+
+    "Moodles_Hypothermia_desc_lvl1": "Cuerpo a 36.5 C<br>Incomodidad +10 %%<br>No te curas de forma natural<br>Más probabilidad de resfriarte",
+    "Moodles_Hypothermia_desc_lvl2": "Cuerpo a 35 C<br>Velocidad de combate -33 %%<br>Velocidad al correr -33 %%<br>Incomodidad +20 %%<br>No te curas de forma natural<br>Más probabilidad de resfriarte",
+    "Moodles_Hypothermia_desc_lvl3": "Cuerpo a 30 C<br>Velocidad de combate -66 %%<br>Velocidad al correr -66 %%<br>Incomodidad +30 %%<br>No te curas de forma natural<br>Más probabilidad de resfriarte",
+    "Moodles_Hypothermia_desc_lvl4": "Cuerpo a 25 C<br>Velocidad de combate -90 %%<br>Incomodidad +40 %%<br>No puedes correr<br>No te curas de forma natural<br>Pierdes salud si el aire está por debajo de 0 C",
+
+    "Moodles_Windchill_desc_lvl1": "5 C menos que el aire",
+    "Moodles_Windchill_desc_lvl2": "10 C menos que el aire",
+    "Moodles_Windchill_desc_lvl3": "15 C menos que el aire",
+    "Moodles_Windchill_desc_lvl4": "20 C menos que el aire",
+
+    "Moodles_Dead_desc_lvl4": "Descansa en paz.",
+    "Moodles_Zombie_desc_lvl4": "Infectado. No hay cura."
+}

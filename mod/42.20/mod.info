@@ -1,0 +1,8 @@
+name=AllTheInfo
+id=AllInfo
+description=Shows the numbers Project Zomboid hides: exact item stats on top of every bare bar, clothing comparisons, crafting results, cooking and burning times, generators, gas pumps, structures, crops, wounds and healing, traits, professions, skills and all 26 moodles. Hover a skill level to see every recipe that requires it, read live from the game's own recipe list. Everything is derived from the game's own code, never estimated. Client-side only, safe in multiplayer. Fully translated into English, Simplified Chinese, Russian, Spanish, Brazilian Portuguese, German, Turkish, French, Japanese and Polish. Every line is a switch of its own in the mod's ALLTHEINFO tab, 172 of them. Replaces (do not run alongside): More Item Information, Fix XP View, Generator Time Remaining, GeneratorRange, Show Wall Health, More Description for Traits, Clear description for Moodles, Descriptive Tooltips for Skill Levels, Detailed Skill Tooltips, Detailed Descriptions for Occupations and Traits, Moodle Effects Explained.
+author=Pegasus
+modversion=1.0
+versionMin=42.20.0
+poster=poster.png
+icon=icon.png
