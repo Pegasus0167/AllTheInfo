@@ -1,1 +1,2 @@
 * text=auto eol=lf
+tools/lang/*.py linguist-detectable=false
